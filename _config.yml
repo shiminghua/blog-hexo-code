@@ -6,6 +6,7 @@
 title: 明华
 subtitle: 明华的博客
 description: 明华的博客
+keywords: 网站关键字
 author: 明华
 language: zh-CN
 timezone:
@@ -34,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -89,8 +90,8 @@ jsonContent:
   posts:
     title: true
     date: true
-    path: true
-    text: true
+    path: false
+    text: false
     raw: false
     content: false
     slug: false
