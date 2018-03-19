@@ -20,16 +20,16 @@ menu:
     directory: atom.xml
     icon: fa-rss
 
-# Sidebar
+# Sidebar - 侧边栏
 widgets:
-  - recent_posts
-  - category
-  - tag
-  - archive
+  - recent_posts ## 最新文章
+  - category ## 分类
+  - tag ## 标签
+  - archive ## 归档
   #- weibo
-  - links
+  #- links
 
-# Toc
+# Toc - 文章目录
 toc:
   enable: true
   number: false
@@ -117,6 +117,10 @@ about:
 # - label: facebook
 #   url:
 #   title:
+
+# List page
+list:
+  
 
 # Links widget. Empty links will hide widget.
 links:
