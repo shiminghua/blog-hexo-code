@@ -3,8 +3,6 @@ title: git常用命令
 date: 2018-03-20 22:59:35
 categories:
 - git
-tags:
-- 常用命令
 ---
 # git 常用命令
 
