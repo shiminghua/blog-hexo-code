@@ -24,7 +24,7 @@ categories:
 ## 远程仓库地址变更
 
 - 删除后添加：git remote rm origin; git remote add origin [url]
-- 修改命令：git remote origin set-url [url]
+- 修改命令：git remote set-url origin [url]
 
 ## 一、新建代码库
 
