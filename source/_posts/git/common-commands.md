@@ -21,6 +21,11 @@ categories:
 - git reset --hard origin/master
 - git pull
 
+## 远程仓库地址变更
+
+- 删除后添加：git remote rm origin; git remote add origin [url]
+- 修改命令：git remote origin set-url [url]
+
 ## 一、新建代码库
 
 - 在当前目录新建一个代码库：$ git init
