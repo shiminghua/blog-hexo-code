@@ -17,9 +17,11 @@ categories:
 
 ## 强制覆盖本地文件
 
+```code
 - git fetch --all
 - git reset --hard origin/master
 - git pull
+```
 
 ## 远程仓库地址变更
 
